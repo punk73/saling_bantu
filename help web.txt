@@ -1,0 +1,62 @@
+user :
+- id
+- username
+- password
+- reputasi
+- created_at
+- update_at
+- email
+- spesialisasi / tag / category
+- bank account
+
+report :
+- id
+- user_id
+- id_transaksi
+- masalah
+- 
+
+reward :
+- id
+- user_id
+- saldo
+
+reputasi : 
+- id
+- user_id
+- bintang
+- created_at
+- update_at
+
+detail_reputasi :
+- id
+- username1
+- username2
+- id_reputasi
+- created_at
+- update_at
+
+status / masalah / transaksi :
+- id
+- masalah
+- budget / range harga
+- lokasi
+- waktu
+- created_at
+- update_at
+
+bid / penawaran :
+- id
+- id_masalah / id_transaksi
+- user_id penawar
+- bid / nilai_tawar
+- solusi.
+- created_at
+- update_at
+
+
+category :
+- id
+- name
+- created_at
+- update_at
