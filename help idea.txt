@@ -1,0 +1,4 @@
+1. customer bisa mendaftarkan helper untuk referensi pribadi
+2. helper butuh verifikasi khusus.
+3. user 1 bisa recommend ke user lain jika di user2 tidak punya orang yang recommended
+   untuk tugas yang diperlukan.
